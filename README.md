@@ -1,65 +1,98 @@
-<h1 align="center">Hi 👋 I Am Sandipan Nayek</h1>
+<!-- CYBERPUNK NEON PROFILE FOR: Sandipan Nayek -->
 
+<!-- Typing SVG Header -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4a2bf712-0b1e-4af4-a7d7-a7a4675aaf6f"
-" width="720"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF2DF7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I+am+Sandipan+Nayek;Frontend+Developer+%7C+Web+Developer;CSE+(Gaming+Technology)+Student;Creating+cyberpunk+web+experiences+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
-<h3 align="center">Frontend Developer • Web Developer • CSE (Gaming Technology) Student</h3>
+<!-- Neon Avatar + Tagline -->
+<p align="center">
+  <!-- Replace the src below with your own avatar image/GIF link if you want -->
+  <img src="https://github.com/rahulbanerjee26/githubAboutMeGenerator/raw/main/icons/giphy.gif" width="220" />
+</p>
+
+<h3 align="center">
+  <span style="color:#FF2DF7">Frontend Developer</span> • 
+  <span style="color:#2DDEFF">Web Developer</span> • 
+  <span style="color:#A5FF2D">CSE (Gaming Tech)</span>
+</h3>
 
 ---
 
-<!-- Contribution + Current Streak + Longest Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SanDYxOP&theme=tokyonight&hide_border=true" />
-</p>
+<!-- Neon Info Panel -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Frontend%20%26%20Web%20Dev-ff2df7?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-2ddeff?style=for-the-badge&logo=hyper&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Theme-Cyberpunk%20Neon-a5ff2d?style=for-the-badge&logo=github&logoColor=000000" />
+</div>
 
 ---
 
-### 🚀 **GitHub Overview**
+## 🧬 About Me
+
+```yaml
+name: "Sandipan Nayek"
+location: "India, IN"
+education: "B.Tech CSE (Gaming Technology) @ VIT Bhopal"
+roles:
+  - "Frontend Developer"
+  - "Web Developer"
+  - "CSE Student"
+interests:
+  - "Creative Web Animations"
+  - "Game Development"
+  - "UI/UX & Interaction Design"
+current_focus: "Building aesthetic, interactive web experiences"
+vibe: "Cyberpunk, neon, clean but playful"
+philosophy: "Build. Break. Glow. Repeat — with self-love."
+```
+🧠 Tech Stack – Neon Grid
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,threejs,cs,cpp,python,java,mongodb,mysql,git,github,figma,blender,vscode&theme=light" /> </p>
+⚡ Cyber Stats Hub
+<div align="center"> <!-- Contributions + Streak --> <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=SanDYxOP&theme=neon-dark&ring=FF2DF7&fire=FF2DF7&currStreakLabel=2DDEFF&hide_border=true" />
+
+<br/><br/>
+
+<!-- Core Stats + Languages --> <img height="165" src="https://github-readme-stats.vercel.app/api?username=SanDYxOP&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF2DF7&icon_color=2DDEFF" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanDYxOP&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF2DF7" /> </div>
+🏆 Neon Trophy Wall
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SanDYxOP&theme=radical&no-frame=true&margin-w=10&row=1" /> </p>
+📈 Holographic Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanDYxOP&theme=react-dark&bg_color=0D1117&color=2DDEFF&line=FF2DF7&point=A5FF2D&hide_border=true&area=true&custom_title=Sandipan%20Nayek's%20Cyber%20Activity%20Grid" /> </p>
+
+
+🎮 Cyberpunk Terminal
+$ whoami
+> sandipan_nayek
+
+$ roles
+> "Frontend Developer" "Web Developer" "CSE (Gaming Tech) Student"
+
+$ now_playing
+> Crafting neon-lit UI, smooth animations & responsive layouts
+
+$ next_mission
+> Deploy more interactive projects and level up my web dev game
+
+🔗 Neon Social Dock
+<p align="center"> <a href="https://www.instagram.com/_sandi.pan_?igsh=aGV4dnNqd3k0Zmhw&utm_source=qr"> <img src="https://img.shields.io/badge/Instagram-FF2DF7?style=for-the-badge&logo=instagram&logoColor=ffffff" /> </a> <a href="mailto:nayek.sandipan1916@gmail.com"> <img src="https://img.shields.io/badge/Gmail-2DDEFF?style=for-the-badge&logo=gmail&logoColor=ffffff" /> </a> <a href="https://github.com/SanDYxOP"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" /> </a> </p>
+🧩 Featured Skills (Frontend Side-Quests)
+
+🔮 Building animated, responsive UIs with HTML, CSS, JS & React
+
+🎨 Crafting aesthetic layouts with attention to spacing & typography
+
+🕹️ Exploring game dev & interactions (Three.js / basic 3D / animations)
+
+🧪 Experimenting with creative web experiences and micro-interactions
+
+🦖 Mini Game Zone
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanDYxOP&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanDYxOP&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github.com/DrDead0/DrDead0/blob/main/img/banner4.gif" width="900" />
+</p>
+>
+## 👁️ Visitor Count
+<p align="center">
+  <img src="https://camo.githubusercontent.com/4c56a4d6d08bf2d0433678588a38420a8d57e6c46578659aee6a14830009a848/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d647264656164302e6472646561643026" />
 </p>
 
----
-
-## 🎯 **Most Used Languages**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanDYxOP&langs_count=10&layout=donut&theme=radical&hide_border=true"/>
-</p>
-
----
-
-## ⭐ **Skill Badges**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,c,cpp,python,java,git,github,figma,vscode,unity,blender,threejs&theme=light" />
-</p>
-
----
-
-# 📊 **Sandipan's Contribution Graph**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanDYxOP&theme=react-dark&area=true&hide_border=true&custom_title=Sandipan%20Nayek%27s%20Contribution%20Graph" />
-</p>
-
----
-
-# 🕹️ **Gamified Contribution Graph (PAC-MAN Style)**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/asset/graph4.svg" width="100%"/>
-</p>
-
----
-
-# 💡 Developer Object
-```js
-const developer = {
-    name: "Sandipan Nayek",
-    location: "India 🇮🇳",
-    education: "VIT Bhopal University (CSE - Gaming Technology)",
-    role: ["Frontend Developer", "Web Developer", "CSE Student"],
-    interests: ["Game Development", "UI/UX Design", "Creative Coding"],
-    currentFocus: "Becoming a strong Frontend + Full-Stack Developer",
-    philosophy: "Build. Break. Improve. Repeat — with self-love.",
-};
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=2000&color=A5FF2D&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+cyberpunk+space+%F0%9F%94%A5;Star+some+repos+if+you+like+my+work+%F0%9F%8C%9F" /> </p> ```
