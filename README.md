@@ -2,13 +2,16 @@
 
 <!-- Typing SVG Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF2DF7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I+am+Sandipan+Nayek;Frontend+Developer+%7C+Web+Developer;CSE+(Gaming+Technology)+Student;Creating+cyberpunk+web+experiences+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF2DF7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I+am+Sandipan+Nayek;Frontend+Developer+%7C+Web+Developer;CSE+(Gaming+Technology)+Student;+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <!-- Neon Avatar + Tagline -->
 <p align="center">
   <!-- Replace the src below with your own avatar image/GIF link if you want -->
   <img src="https://github.com/rahulbanerjee26/githubAboutMeGenerator/raw/main/icons/giphy.gif" width="220" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e64aad81-bc4b-4349-9c47-077fa8684cf6" width="500" />
 </p>
 
 <h3 align="center">
@@ -89,10 +92,13 @@ $ next_mission
 <p align="center">
   <img src="https://github.com/DrDead0/DrDead0/blob/main/img/banner4.gif" width="900" />
 </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/07fcbf5b-d808-42c0-957b-ca62bb1f90c7"  width="900" />
+</p>
 >
 ## 👁️ Visitor Count
 <p align="center">
   <img src="https://camo.githubusercontent.com/4c56a4d6d08bf2d0433678588a38420a8d57e6c46578659aee6a14830009a848/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d647264656164302e6472646561643026" />
 </p>
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=2000&color=A5FF2D&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+cyberpunk+space+%F0%9F%94%A5;Star+some+repos+if+you+like+my+work+%F0%9F%8C%9F" /> </p> ```
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=2000&color=A5FF2D&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+cyberpunk+space+%F0%9F%94%A5;Star+some+repos+if+you+like+my+work+%F0%9F%8C%9F" /> </p> 
