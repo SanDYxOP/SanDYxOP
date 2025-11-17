@@ -15,13 +15,16 @@
   <img src="https://github.com/user-attachments/assets/e64aad81-bc4b-4349-9c47-077fa8684cf6" width="500" />
 </p>
 
+
 <h3 align="center">
   <span style="color:#FF2DF7">Frontend Developer</span> • 
   <span style="color:#2DDEFF">Web Developer</span> • 
   <span style="color:#A5FF2D">CSE (Gaming Tech)</span>
 </h3>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
 <!-- Neon Info Panel -->
 <div align="center">
@@ -30,7 +33,10 @@
   <img src="https://img.shields.io/badge/Theme-Cyberpunk%20Neon-a5ff2d?style=for-the-badge&logo=github&logoColor=000000" />
 </div>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
 
 ## 🧬 About Me
 
